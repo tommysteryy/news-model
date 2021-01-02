@@ -5,4 +5,4 @@ My list of ideas:
 - Do some explorative plotting and also self-analysis. Which variables are most likely manipulatible in an article, and which will be most of interest?
 - Pick variables and plots that you'll use for your project. Aim for 5-7 interesting and RELEVANT ones.
 - Use dsci or calculus to determine optimal levels of each variable.
-- build the classification model based on all these variables. Only two class variables - shared or not shared.
+- Build the classification model based on all these variables. Only two class variables - shared or not shared.
