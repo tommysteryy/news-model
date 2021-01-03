@@ -6,3 +6,8 @@ My list of ideas:
 - Pick variables and plots that you'll use for your project. Aim for 5-7 interesting and RELEVANT ones.
 - Use dsci or calculus to determine optimal levels of each variable.
 - Build the classification model based on all these variables. Only two class variables - shared or not shared.
+
+- [ ] Relearn how to scrape data
+- [ ] Scrape data from major news articles and take info about all the variables I picked in the main article
+- [ ] Compare trends in the change in the article preferences? (think about word count and title count, title polarity etc)
+- [ ] {Stretch Goal} Would be cool to have a ongoing list and a way to visualize the data so that you can hover over it and see the articles
